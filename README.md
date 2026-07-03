@@ -1,27 +1,38 @@
-# 👋 안녕하세요. AI 연구개발 엔지니어 강진구입니다.
+# 👋 안녕하세요, 강진구입니다.
 
-제조 산업에서 활용 가능한 **실용적인 AI 시스템**을 연구하고 개발하고 있습니다.
-
-Large Language Models(LLM), Retrieval-Augmented Generation(RAG), Computer Vision을 기반으로 **현장에 적용 가능한 신뢰성 높은 AI 시스템**을 만드는 것에 관심이 있습니다.
+> **AI Research Engineer**
+> 제조 산업의 실제 문제를 해결하기 위해 **Large Language Models(LLMs)**, **Retrieval-Augmented Generation(RAG)**, **Computer Vision** 기반의 AI 시스템을 연구하고 개발합니다.
 
 ---
 
-## 🔍 연구 관심 분야
+## 💡 About Me
+
+안녕하세요. AI를 연구하고 개발하는 강진구입니다.
+
+저는 단순히 높은 성능의 모델을 만드는 것보다 **실제 산업 현장에서 활용할 수 있는 AI 시스템**을 만드는 것에 관심이 있습니다.
+
+현재는 제조 산업을 중심으로 **LLM**, **RAG**, **Computer Vision** 기술을 활용하여 현장 적용이 가능한 AI 시스템을 연구하고 있으며, 신뢰성 있는 검색 시스템과 멀티모달 AI에 관심을 가지고 있습니다.
+
+---
+
+## 🔬 Research Interests
 
 * 🏭 Manufacturing AI
 * 🤖 Large Language Models (LLMs)
 * 📚 Retrieval-Augmented Generation (RAG)
-* 👁️ Computer Vision
 * 🖼️ Multimodal AI
-* 🔎 Information Retrieval
+* 👁️ Computer Vision
+* 🔍 Information Retrieval
+* ⚙️ Industrial AI Systems
 
 ---
 
-## 🛠 기술 스택
+## 🛠 Tech Stack
 
 ### Language
 
 * Python
+* C++
 
 ### AI / Deep Learning
 
@@ -31,6 +42,11 @@ Large Language Models(LLM), Retrieval-Augmented Generation(RAG), Computer Vision
 * OpenCV
 * Ultralytics YOLO
 
+### Retrieval
+
+* ChromaDB
+* FAISS
+
 ### Development
 
 * Git
@@ -39,39 +55,34 @@ Large Language Models(LLM), Retrieval-Augmented Generation(RAG), Computer Vision
 
 ---
 
-## 🎓 학력
+## 📚 Publications
 
-**건국대학교 일반대학원 산업공학과 (ICTM Lab)**
-석사
+**Master's Thesis**
 
-**건국대학교 산업공학과**
-학사
+**제조 기술 문서를 위한 도메인 특화 키워드 기반 검색 증강 생성 기법 연구**
 
----
-
-## 💡 연구 분야
-
-현재 다음과 같은 분야를 중심으로 연구를 진행하고 있습니다.
-
-* 도메인 특화 Retrieval-Augmented Generation(RAG)
-* 제조 산업을 위한 Large Language Model 활용
-* 제조 자동화를 위한 Computer Vision
-* Multimodal Retrieval 및 Vision-Language Model
-* 산업 현장 적용을 위한 AI 시스템 설계 및 구현
+*A Study on Domain-Specific Keyword-based Retrieval-Augmented Generation for Manufacturing Technical Documents*
 
 ---
 
-## 🌱 현재 관심 있는 주제
+## 🌱 Currently Learning
+
+현재 아래 분야를 중심으로 연구를 확장하고 있습니다.
 
 * Reliable Retrieval
-* Multimodal RAG
-* Vision-Language Model
+* Multimodal Retrieval-Augmented Generation
+* Vision-Language Models
 * Agentic AI
-* Industrial AI
+* AI for Smart Manufacturing
 
 ---
 
 ## 📫 Contact
 
-* GitHub : https://github.com/jingu1138
-* Email : jingu4055@gmail.com
+📧 Email : jingu4055@gmail.com
+
+💻 GitHub : https://github.com/jingu1138
+
+---
+
+*"Building practical AI systems for real-world manufacturing."*
